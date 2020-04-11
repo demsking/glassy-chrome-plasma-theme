@@ -1,4 +1,4 @@
-# Glassy Chrome
+# Glassy Chrome Plasma Theme
 
 A minimalist theme for KDE Plasma based on Glassy and ChromeOS themes
 
